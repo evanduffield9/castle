@@ -1,3 +1,19 @@
+byron message therophet oi ahisodg iopas opg noipas iopna pinodgs pinosap iop inoas pign pinosap inoga pinso pinoasp dg npioasg pino panois pniop onia nipoa oinn coin asn na 
+
+cd
+
+cd init 
+cd      next 
+
+next
+    th 
+
+    next th 
+
+    next direction 
+
+    next merge union test 
+
 er ui 
 
 ![10-Castles-to-visit-in-England](https://github.com/user-attachments/assets/fd256949-6433-4ac9-92d7-b7cf7199a78b)
