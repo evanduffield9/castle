@@ -1,0 +1,29 @@
+ha
+  dagger
+
+ha
+  command 
+
+timex gate://command/topic
+
+domain
+
+timed apparatus
+               set
+                  index
+                       es 
+
+
+es
+  ne 
+t   network interface
+
+domain
+      es 
+
+net
+   apparitsuut  
+
+command
+       site 
+           hair
